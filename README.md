@@ -39,9 +39,7 @@
 ### ╒═══「 Creator Info/Credits 」
 
 +  [Awesome_Tofu](https://GitHub.com/Awesome-Tofu) : OWNER | DEV
-+  [Rajkumar](https://github.com/Awesome-RJ) : BASE
-+  [Hirojazz](https://github.com/Hirojazz) : BASE
-+  [Dank-del](https://github.com/Dank-del) : BASE 
++  [H0daka](https://github.com/h0daka) : BASE 
 
 ╘══「 Any other authorship/credits can be seen through the commits. 」
 
