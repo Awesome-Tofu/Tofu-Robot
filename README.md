@@ -31,7 +31,7 @@
 + [x] Heroku Deploy
 + [x] Docker/Local Machine
 
-╘══「 Can be found on telegram as [Tofu](https://t.me/TofuXrobot) 」
+╘══「 Can be found on telegram as [Tofu](https://telegram.me/TofuXrobot) 」
 
 
 ![Tofu](https://telegra.ph/file/eaea4dd33973037ff3bf6.png)
