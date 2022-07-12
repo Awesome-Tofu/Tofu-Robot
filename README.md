@@ -22,7 +22,7 @@
 
 ###  ╒═══「 Status 」
 
-+ [] Maintained
+❌ Maintained
 + [x] Support Group Included
 + [x] Free
 + [x] OpenSourced
